@@ -71,7 +71,7 @@ module SRFLIPFLOPUSINGCASE(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral 
 endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
-![Screenshot 2024-12-29 164613](https://github.com/user-attachments/assets/8af074b7-20b3-434a-a626-8d50f5e0ca22)
+![image](https://github.com/user-attachments/assets/e68fef51-222c-4b70-821f-6983d65d80f4)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
